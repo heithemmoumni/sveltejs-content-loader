@@ -1,4 +1,4 @@
-# sveltejs-content-loader
+# Sveltejs Content Loader
 
 Svelte component to easily build SVG loading cards Facebook like
 
