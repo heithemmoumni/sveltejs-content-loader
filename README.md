@@ -2,6 +2,8 @@
 
 Svelte component to easily build SVG loading cards Facebook like
 
+<img src="https://github.com/heithemmoumni/sveltejs-content-loader/blob/master/public/animation.gif"/>
+
 ## Install
 
 ```
